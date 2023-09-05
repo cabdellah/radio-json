@@ -12,15 +12,15 @@
        "name": "nl1.api.radio-browser.info"
     },
     {
-       "ip": "91.132.145.114",
+       "ip": "01",
        "name": "de1.api.radio-browser.info"
     },
     {
-       "ip": "89.58.16.19",
+       "ip": "02",
        "name": "at1.api.radio-browser.info"
     },
     {
-       "ip": "95.179.139.106",
+       "ip": "03",
        "name": "nl1.api.radio-browser.info"
     }
  ]
